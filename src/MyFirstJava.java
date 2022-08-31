@@ -5,7 +5,7 @@ public class MyFirstJava {
     public static void main(String[] args){
         //System.out.println(decToHex(98));
         //System.out.println(hexToDec(decToHex(98)));
-        People lura = new People("rad",11,"whole","lubrication");
+        People lura = new People("rad",11,"police","shoot");
 
         lura.printPeople();
     }
